@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "making tasks inspectable under test",
+    "repository": "https://github.com/professaa/elm-task-test-helper.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+      "TaskTestHelper"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "2.1.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.1 <= v < 0.16.0"
+}
